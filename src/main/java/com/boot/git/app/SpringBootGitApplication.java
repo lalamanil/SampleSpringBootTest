@@ -16,5 +16,6 @@ import org.springframework.context.annotation.Configuration;
 public class SpringBootGitApplication {
 	public static void main(String[] args) {
 	SpringApplication.run(SpringBootGitApplication.class, args);
+		SpringApplication.run(SpringBootGitApplication.class, args);
 	}
 }
