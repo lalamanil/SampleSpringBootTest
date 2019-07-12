@@ -27,6 +27,8 @@ public class GitController {
 		LOGGER.info("I am in sampleController dude......hurry123465781234testttt");
                LOGGER.info("I am in sampleController dude......hurry123465781234testtttbranch2");
 		LOGGER.info("I am in sampleController dude......hurry123465781234testtttbranch2 7/12/2019 5:23 patch2");
+		      LOGGER.info("I am in sampleController dude......hurry123465781234testtttbranch1 1/12/2019 5.15 pm");
+
 		return new ResponseEntity<String>("Sucessfully done", HttpStatus.OK);
 	}
 
