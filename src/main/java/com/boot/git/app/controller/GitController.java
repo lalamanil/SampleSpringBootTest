@@ -22,6 +22,7 @@ public class GitController {
 	@ResponseBody
 	public ResponseEntity<String> sampleController() {
 		LOGGER.info("I am in sampleController dude......");
+		LOGGER.info("I am in sampleController dude...... we lost the game");
 		return new ResponseEntity<String>("Sucessfully done", HttpStatus.OK);
 	}
 
