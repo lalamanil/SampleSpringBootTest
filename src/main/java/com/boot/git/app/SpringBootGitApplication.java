@@ -19,5 +19,6 @@ public class SpringBootGitApplication {
 		SpringApplication.run(SpringBootGitApplication.class, args);
 		SpringApplication.run(SpringBootGitApplication.class, args);
 		SpringApplication.run(SpringBootGitApplication.class, args);
+				SpringApplication.run(SpringBootGitApplication.class, branch2);
 	}
 }
